@@ -1,0 +1,14 @@
+body {
+  display: flex;
+  flex-direction: column;
+}
+#searchButton,
+#searchBar {
+  width: fit-content;
+  margin: 0.2rem 0.5rem;
+}
+img {
+  height: 10rem;
+  width: fit-content;
+  margin: 0.5rem;
+}
